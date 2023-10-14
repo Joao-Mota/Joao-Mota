@@ -27,6 +27,6 @@ Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_
 | [LC](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501680) | [DefendTheBase](https://github.com/PedroLandolt/DefendTheBase)  | A tower defense game where we utilize all the I/O devices (Timer, Keyboard, Mouse, RTC, others)                                                            | 18     |
 
 <h2 align = "center" >Contact me:</h2>
-<a href="https://linkedin.com/in/pedro-januario-352421266">
+<a href="https://www.linkedin.com/in/joãomota/">
   <img width=20 title="Linkedin" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/>
 </a>
