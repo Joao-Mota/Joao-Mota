@@ -4,17 +4,11 @@
 Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_page.inicial) of the University of Porto at Bachelor's Degree in Informatics and Computing Engineering ([LEIC](https://sigarra.up.pt/feup/pt/cur_geral.cur_view?pv_curso_id=22841&pv_ano_lectivo=2022)).
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Mota&show_icons=true&theme=onedark&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Mota&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Mota&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Mota&layout=compact&langs_count=7&theme=dracula"/>   
 </div>
 
-<p align = "center">
-<img align="center" src="https://img.shields.io/badge/Operating%20System-Windows-blue ?style=flat&logo=windows&logoColor=white&color=0398fc">
-<img align="center" src="https://img.shields.io/badge/Tools for coding -Git-informational?style=flat&logo=Git&logoColor=white&color=fc9d03">
-<img align="center" src="https://img.shields.io/badge/Editors-Visual Studio Code -informational?style=flat&logo=visual-studio-code&logoColor=white&color=ae48d4">
-</p>
-
-<h2 align = "center" >Projects</h2>
+<h2 align = "center"> Projects </h2>
 <p align = "center">
 
 | UC   | Name      | Description                                                                                                                                                   | Grade (/20) |
@@ -26,7 +20,7 @@ Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_
 | [ES](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501679)  | [TeachMeWell](https://github.com/PedroLandolt/TeachMeWell)  | An app to rate professors from the university of Porto, to help people chose there professors in the beggining of the semester                                                            |  19.3   |
 | [LC](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501680) | [DefendTheBase](https://github.com/PedroLandolt/DefendTheBase)  | A tower defense game where we utilize all the I/O devices (Timer, Keyboard, Mouse, RTC, others)                                                            | 18     |
 
-<h2 align = "center" >Contact me:</h2>
+<h2> Contact me: </h2>
 <a href="https://www.linkedin.com/in/joãomota/">
   <img width=20 title="Linkedin" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/>
 </a>
