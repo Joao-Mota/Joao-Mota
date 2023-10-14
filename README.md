@@ -19,6 +19,7 @@ Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_
 | [LTW](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501681)  | [PourProblems](https://github.com/PedroLandolt/PourProblems)  | A website made with the goal to provide a platform for users to share their wine-related experiences and issues                                                           | 16.4    |
 | [ES](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501679)  | [TeachMeWell](https://github.com/PedroLandolt/TeachMeWell)  | An app to rate professors from the university of Porto, to help people chose there professors in the beggining of the semester                                                            |  19.3   |
 | [LC](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501680) | [DefendTheBase](https://github.com/PedroLandolt/DefendTheBase)  | A tower defense game where we utilize all the I/O devices (Timer, Keyboard, Mouse, RTC, others)                                                            | 18     |
+</p>
 
 <h2> Contact me: </h2>
 <a href="https://www.linkedin.com/in/joãomota/">
