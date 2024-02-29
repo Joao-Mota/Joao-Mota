@@ -3,9 +3,6 @@
 
 Currently studying Informatics and Computing Engineering ([LEIC](https://sigarra.up.pt/feup/pt/cur_geral.cur_view?pv_curso_id=22841&pv_ano_lectivo=2022)) at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_page.inicial) of the University of Porto.
 
-![Joao-Mota's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Mota&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Mota&layout=compact&theme=dark)
-
 <h2 align = "center"> Projects </h2>
 <p align = "center">
 
